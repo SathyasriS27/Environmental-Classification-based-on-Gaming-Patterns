@@ -10,5 +10,12 @@ The dataset used contains a wide range of information, including socio-demograph
 Our methodology is divided into three stages: 
   1. Data quality checks - The aim of data quality assessment is to ensure the accuracy, consistency, and reliability of the dataset by identifying and rectifying discrepancies.
   2. Data characterization - The data characterization phase seeks to provide a comprehensive overview of key characteristics, patterns, and trends within the dataset.
-  3. Detailed analysis objectives -  The detailed analysis is for conducting an in-depth examination of the dataset, extracting valuable insights and conclusions. 
+  3. Detailed analysis objectives -  The detailed analysis is for conducting an in-depth examination of the dataset, extracting valuable insights and conclusions.
 
+## Documentation 
+In order to get the complete analysis and conclusion is done please refer to this documentation. 
+
+## Built with 
+*[![Python][Python.js]][Python-url]
+
+## Acknowledgements 
