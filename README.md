@@ -16,8 +16,10 @@ Our methodology is divided into three stages:
 In order to get the complete analysis and conclusion is done please refer to this documentation. 
 
 ## Built with 
-![image](https://github.com/SathyasriS27/Environmental-Classification-based-on-Gaming-Patterns/assets/80045599/98c13036-6301-4c5d-95d7-22ba0435e482)
-![image](https://github.com/SathyasriS27/Environmental-Classification-based-on-Gaming-Patterns/assets/80045599/98c13036-6301-4c5d-95d7-22ba0435e482)
-
+* Python
 
 ## Acknowledgements 
+Team members who made this project possible 
+1. Priyanka Singh
+2. Omkar pawar
+3. Akshay Deshmukh
