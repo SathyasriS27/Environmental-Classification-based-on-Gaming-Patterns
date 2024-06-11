@@ -5,6 +5,7 @@ The aim of this project is to create a more nuanced understanding of the interac
 
 ## About the Dataset 
 The dataset used contains a wide range of information, including socio-demographic details, responses to world events, environmental viewpoints, gaming habits, in-game activities, and player emotional experiences. This dataset is a significant resource for investigating the global convergence of virtual gaming, environmental awareness, and human actions. 
+The dataset used in this project is got from Science data bank - https://www.scidb.cn/en/detail?dataSetId=cb5d36cce29f4e5695a586c9b85d04b6
 
 ## Methodology
 Our methodology is divided into three stages: 
