@@ -14,7 +14,7 @@ Our methodology is divided into three stages:
   3. Detailed analysis objectives -  The detailed analysis is for conducting an in-depth examination of the dataset, extracting valuable insights and conclusions.
 
 ## Documentation 🗂️
-In order to get the complete analysis and conclusion is done please refer to this [documentation](https://github.com/SathyasriS27/Environmental-Classification-based-on-Gaming-Patterns/blob/main/Group%2B27_Coursework%2B1_Report-1.pdf). 
+In order to get the complete analysis and conclusion, please refer to this [documentation](https://github.com/SathyasriS27/Environmental-Classification-based-on-Gaming-Patterns/blob/main/Group%2B27_Coursework%2B1_Report-1.pdf). 
 
 ## Built with 👷🏻‍♀️
 * Python
